@@ -14,6 +14,6 @@ ENDCLASS.
 
 CLASS zcl_dmo_ls_git IMPLEMENTATION.
     method sayHello.
-        WRITE: 'SAY HELLO Max'.
+        WRITE: 'Say hello from Sandbox System'.
     endMETHOD.
 ENDCLASS.
