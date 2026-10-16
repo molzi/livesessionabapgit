@@ -14,6 +14,6 @@ ENDCLASS.
 
 CLASS zcl_dmo_ls_git IMPLEMENTATION.
     method sayHello.
-        WRITE: 'Say hello from Development System - branch dev'.
+        WRITE: 'Say hello from Development System - branch dev new change'.
     endMETHOD.
 ENDCLASS.
